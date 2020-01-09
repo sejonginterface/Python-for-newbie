@@ -3,4 +3,4 @@
 
 
 ## 목차
-1. [변수의 이해 및 기본 데이터 타입] (https://github.com/sejonginterface/Study-Python/blob/master/변수%20이해%20및%20기본%20데이터%20타입.md)
+1. [변수의 이해 및 기본 데이터 타입](https://github.com/sejonginterface/Study-Python/blob/master/변수%20이해%20및%20기본%20데이터%20타입.md)
