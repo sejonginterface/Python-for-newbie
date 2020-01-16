@@ -7,3 +7,4 @@
 2. [파이썬 기초 - 문자열](https://github.com/sejonginterface/Study-Python/blob/master/%EB%AC%B8%EC%9E%90%EC%97%B4%20.ipynb)
 3. [파이썬 기초 - 리스트 & 튜플](https://github.com/sejonginterface/Study-Python/blob/master/%EB%A6%AC%EC%8A%A4%ED%8A%B8%EC%99%80%20%ED%8A%9C%ED%94%8C.ipynb)
 4. [파이썬 기초 - 딕셔너리 & 집합](https://github.com/sejonginterface/Study-Python/blob/master/%EB%94%95%EC%85%94%EB%84%88%EB%A6%AC%EC%99%80%20%EC%A7%91%ED%95%A9.ipynb)
+5. [파이썬 기초 - 조건문 & 반복문](https://github.com/sejonginterface/Study-Python/blob/master/%EC%A1%B0%EA%B1%B4%EB%AC%B8%20%26%20%EB%B0%98%EB%B3%B5%EB%AC%B8.ipynb)
